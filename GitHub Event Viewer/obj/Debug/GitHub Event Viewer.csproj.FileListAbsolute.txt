@@ -1,0 +1,46 @@
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\bin\Debug\GitHub Event Viewer.dll.config
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\bin\Debug\GitHub Event Viewer.dll
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\bin\Debug\GitHub Event Viewer.pdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\bin\Debug\GitHub_Event_Viewer.GitHub_Event_Viewer.apk
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\bin\Debug\GitHub_Event_Viewer.GitHub_Event_Viewer-Signed.apk
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\obj\Debug\GitHub Event Viewer.dll
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\obj\Debug\GitHub Event Viewer.pdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\obj\Debug\android\bin\GitHub_Event_Viewer.GitHub_Event_Viewer.apk
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\obj\Debug\res\layout\eventdisplay.xml
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\obj\Debug\res\layout\main.xml
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\obj\Debug\res\values\strings.xml
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\obj\Debug\R.cs.flag
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\obj\Debug\uploadflags.txt
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\bin\Debug\GitHub Event Viewer.dll.mdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\bin\Debug\mscorlib.dll.mdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\bin\Debug\System.Core.dll.mdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\bin\Debug\System.dll.mdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\bin\Debug\System.Json.dll.mdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\bin\Debug\System.Xml.dll.mdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\obj\Debug\android\assets\GitHub Event Viewer.dll.mdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\obj\Debug\android\assets\System.Json.dll.mdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Tech_Advancer\documents\visual studio 2015\Projects\GitHub Event Viewer\GitHub Event Viewer\obj\Debug\GitHub Event Viewer.dll.mdb

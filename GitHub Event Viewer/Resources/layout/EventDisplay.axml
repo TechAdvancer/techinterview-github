@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/scrollView1">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/space4"
+            android:minHeight="10sp" />
+        <TextView
+            android:text="Event Id: "
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/TextEventId"
+            android:layout_marginLeft="10sp" />
+        <TextView
+            android:text="Event Details"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/TextEventDetails"
+            android:layout_marginLeft="10sp" />
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/space1"
+            android:minHeight="25sp" />
+        <TextView
+            android:text="User:"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView2"
+            android:gravity="left" />
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/space5"
+            android:minHeight="10sp" />
+        <TextView
+            android:text="username"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/TextActorName"
+            android:layout_marginLeft="10sp" />
+        <ImageView
+            android:src="@android:drawable/ic_menu_gallery"
+            android:layout_width="119.0dp"
+            android:layout_height="78.5dp"
+            android:id="@+id/ImageAvatar"
+            android:layout_marginRight="0.0dp"
+            android:layout_marginBottom="0.0dp"
+            android:layout_marginTop="0.0dp"
+            android:layout_marginLeft="5.0dp"
+            xmlns:tools="http://schemas.android.com/tools"
+            tools:visibility="visible" />
+        <Button
+            android:text="See User Account &gt;"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ButtonUserURL" />
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/space2"
+            android:minHeight="25sp" />
+        <TextView
+            android:text="Repository"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView3" />
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/space6"
+            android:minHeight="10sp" />
+        <TextView
+            android:text="RepoName"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/TextRepoName"
+            android:layout_marginLeft="10sp" />
+        <TextView
+            android:text="Repo Id"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/TextRepoId"
+            android:layout_marginLeft="10sp" />
+        <Button
+            android:text="See Repo API Page &gt;"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ButtonRepoURL" />
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/space3"
+            android:minHeight="25sp" />
+        <Button
+            android:text="&lt; Back"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ButtonBack" />
+    </LinearLayout>
+</ScrollView>
